@@ -1,5 +1,5 @@
-# 2025年8月 如何免费生成 AI 图片（含多平台推荐与注意事项）
-> 更新时间：2025年8月27日
+# 2025年9月 如何免费生成 AI 图片，包括GPT-5、GPT-4o-image、Gemini Nano Banana（含多平台推荐与注意事项）
+> 更新时间：2025年9月19日
 
 随着人工智能技术的发展，AI 图片生成越来越受到欢迎。许多平台提供免费或低成本的 AI 图片生成服务，帮助用户轻松创建图像。本文将介绍如何免费生成 AI 图片，并推荐一些支持此类功能的平台。
 
@@ -35,13 +35,13 @@
 
 网址直达：[xsimplechat.com](https://xsimplechat.com)
 
-### 3. 蓝鲸 AI（[官方网址](https://chat.lanjingai.org)）
+### 3. 蓝鲸 AI（[官方网址](https://ai.lanjingai.org)）
 亮点：
 - 核心模型齐全：支持 ChatGPT、Claude、Gemini 及多种 AI 图像生成和音乐、视频生成。
 - 界面简洁高效，适合喜欢轻量化界面的用户。
 - 可玩 AI 画图功能，适合视觉创作爱好者。
 
-网址直达：[chat.lanjingai.org](https://chat.lanjingai.org)
+网址直达：[ai.lanjingai.org](https://ai.lanjingai.org)
 
 ### 4. 智惠聚合 AI（[官方网址](https://deepseek-free.org)）
 亮点：
